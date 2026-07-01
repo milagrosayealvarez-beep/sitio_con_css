@@ -1,9 +1,10 @@
+
 h1{
-    color: blueviolet;
+    color: rgb(141, 48, 228);
 }
 
 nav{
-    color: aqua;
+    color: rgb(39, 171, 171);
 }
 
 h2{
@@ -11,5 +12,13 @@ h2{
 }
 
 footer{
-    color: blue;
+    color: rgb(27, 27, 214);
+}
+
+h1, h2{
+    font-family: "Poppins"
+}
+
+nav, ul, li, a,figcaption, p{
+    font-family: "Nunito Sans"
 }
